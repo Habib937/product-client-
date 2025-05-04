@@ -2,7 +2,6 @@ import React, { useContext } from "react";
 // import { Authcontext } from "./Authprovider";
 import { NavLink, useNavigate } from "react-router-dom";
 import { useForm } from "react-hook-form";
-// import useaxiospublic from "../hook/useaxiospublic";
 import Swal from "sweetalert2";
 import Sociallogin from "./Sociallogin";
 import useaxiospublic from "../../hook/useaxiospublic";
