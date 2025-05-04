@@ -1,11 +1,5 @@
-
-
 import React, { useContext } from "react";
 import { Authcontext } from "../auth/Authprovider";
-// import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
-// import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
-// import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
-
 const Myprofile = () => {
   const {user} = useContext(Authcontext)
   const userProfile = {
