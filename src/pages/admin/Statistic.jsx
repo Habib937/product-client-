@@ -1,4 +1,4 @@
-// import { Authcontext } from "../../auth/Authprovider";
+// import { Authcontext } "../../auth/Authprovider";
 // import useaxios from "../../hook/useaxios";
 import { useQuery } from "@tanstack/react-query";
 import { Pie } from "react-chartjs-2";
