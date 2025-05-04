@@ -7,7 +7,6 @@ import Swal from "sweetalert2";
 import Sociallogin from "./Sociallogin";
 import useaxiospublic from "../../hook/useaxiospublic";
 import { Authcontext } from "./Authprovider";
-// import Sociallogin from "./Sociallogin";
 
 const Register = () => {
   const navigate = useNavigate()
