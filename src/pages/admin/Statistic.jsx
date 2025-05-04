@@ -1,5 +1,5 @@
 
-// import useaxios from "../../hook/useaxios";
+// import useaxios from "../hook/useaxios";
 import { useQuery } from "@tanstack/react-query";
 import { Pie } from "react-chartjs-2";
 import { Chart as ChartJS, ArcElement, Tooltip, Legend } from "chart.js";
