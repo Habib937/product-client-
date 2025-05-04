@@ -1,5 +1,4 @@
 import React, { useContext } from "react";
-// import { Authcontext } from "./Authprovider";
 import { NavLink, useNavigate } from "react-router-dom";
 import { useForm } from "react-hook-form";
 import Swal from "sweetalert2";
