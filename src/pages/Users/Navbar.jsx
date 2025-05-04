@@ -1,8 +1,5 @@
-// import React, { useContext } from "react";
 import { NavLink } from "react-router-dom";
-// import { Authcontext } from "../auth/Authprovider";
 import { FaShoppingCart } from "react-icons/fa";
-// import usecart from "../hook/usecart";
 import { useContext } from "react";
 import { Authcontext } from "../auth/Authprovider";
 
